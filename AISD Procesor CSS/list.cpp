@@ -2,7 +2,7 @@
 #include "List.h"
 #include "BasicString.h"
 #include <iostream>
-#define ARRAY_SIZE 15
+#define ARRAY_SIZE 8
 template <typename Type>
 
 List<Type>::List() {
